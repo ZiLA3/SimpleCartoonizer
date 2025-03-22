@@ -4,7 +4,7 @@
 
 ### 예시
 
-![Castle](ScreenShot\1.png)
+![Castle](https://github.com/ZiLA3/SimpleCartoonizer/blob/main/ScreenShot/1.png)
 
 좋은 예시의 스크린샷
 
@@ -13,7 +13,7 @@
 성의 내부 색들의 차이도 커서 깔끔하게 표현된 것을 알 수 있다.
 
 
-![Cat](ScreenShot\2.png)
+![Cat](https://github.com/ZiLA3/SimpleCartoonizer/blob/main/ScreenShot/2.png)
 
 나쁜 예시의 스크린샷
 
